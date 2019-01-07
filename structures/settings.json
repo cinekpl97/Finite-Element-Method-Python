@@ -1,0 +1,14 @@
+{
+  "H": 0.1,
+  "L": 0.1,
+  "nH": 4,
+  "nL": 4,
+  "k": 25,
+  "c": 700,
+  "ro": 7800,
+  "alfa": 300,
+  "ambient_temperature": 1200,
+  "base_temperature": 100,
+  "simulation_time": 500,
+  "simulation_step_time": 50
+}
